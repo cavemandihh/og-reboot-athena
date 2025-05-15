@@ -1,5 +1,6 @@
 # 🎮 UEFN Project: [og reboot royale]
-
+stay tuned for more new discord server
+https://discord.gg/WpKwZATKB9
 A custom Unreal Editor for Fortnite (UEFN) experience built by **theboydilly**.
 
 ## 🌍 Overview
